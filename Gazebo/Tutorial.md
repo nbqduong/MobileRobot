@@ -1,0 +1,4 @@
+- Link to gazebo example model
+  - http://github.com/osrf/gazebo_model
+- Gazebo simulation cloning 
+  - GAZEBO_MASTER_URI=http://localhost:11346 gzclient
