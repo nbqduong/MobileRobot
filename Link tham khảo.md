@@ -2,4 +2,8 @@
   - https://www.youtube.com/watch?v=Uz_i_sjVhIM&ab_channel=RoboticsandROSLearning
 - Hướng dẫn sử dụng gazebo 
   - https://www.youtube.com/watch?v=O0729K-7VEY&list=PLNw2RD-1J5YYvFGiMafRD_axHrBUGvuIg
+- Tiếp theo, để điều khiển robot trong gazebo bằng ros, tham khảo các tài liệu sau
+  - [Gazebo plugins in ROS](https://classic.gazebosim.org/tutorials?tut=ros_gzplugins)
+  - [Hướng dẫn dùng gazebo plugins để mô phỏng và điều khiển xe mecanum](https://www.youtube.com/watch?v=sb7FoOGzb8E&ab_channel=TheConstruct)
+  - 
 
