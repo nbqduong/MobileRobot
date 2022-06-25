@@ -5,6 +5,8 @@
 - Tiếp theo, để điều khiển robot trong gazebo bằng ros, tham khảo các tài liệu sau
   - [Gazebo plugins in ROS](https://classic.gazebosim.org/tutorials?tut=ros_gzplugins)
   - [Hướng dẫn dùng gazebo plugins để mô phỏng và điều khiển xe mecanum](https://www.youtube.com/watch?v=sb7FoOGzb8E&ab_channel=TheConstruct)
-- Hướng dẫn sử dụng python 3 và ROS 2
+- Hướng dẫn sử dụng python3
   - [RCLPY Document](https://docs.ros2.org/latest/api/rclpy/index.html)
-
+    - RCL cung cấp giao diện API để Python giao tiếp với ROS2
+- Hướng dẫn sử dụng ROS2
+- Hướng dẫn sử dụng
