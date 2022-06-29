@@ -12,3 +12,6 @@
 - [Công ty gia công khung xe tự hành](https://www.webtretho.com/f/mua-gi-o-dau/gia-cong-khung-vo-xe-tu-hanh-agv-suc-keo-500kg)
 - [Robot tự hành đặt hàng từ TQ- liên hệ tư vấn](https://hptvietnam.vn/san-pham/robot-tu-hanh-agv-sp-gt-600sx-001)
 - [AGV roller alibaba](https://www.alibaba.com/product-detail/Agv-Robot-Professional-Workshop-AGV-Laser_1600444725531.html?spm=a2700.drainage_lp_1.0.0.60db7e46e72oVn&s=p)
+- [AGV trung quốc 550$](https://lefelwel.en.made-in-china.com/product/zZVGTaNCEwWU/China-Agv30-Hot-Sale-Lifting-Automatic-Guided-Vehicle-Agv-Transport-Robot.html)
+- [AGV roller alibaba 3k$](https://www.alibaba.com/product-detail/Roller-Platform-Type-Automated-Guided-Vehicles_60805914384.html)
+- [AGV roller make in china](https://m.made-in-china.com/product/Automated-Guided-Vehicle-AGV-Mobile-Robot-Roller-Agv-879087425.html)
