@@ -1,3 +1,6 @@
+#### Các Link liên quan
+- [Vật tư cần mua](https://docs.google.com/spreadsheets/d/1pRCBD6UKNPuralyuxXqP7JyLt9lx6s0w9r0P3cKB25k/edit#gid=0)
+- 
 #### Các link tham khảo chế tạo agv
 - [Mô hình agv giảm chấn lò xo, 3dc](https://www.youtube.com/watch?v=uw1oWsdZuHE&ab_channel=DynamoBot)
 - [Tham khảo AGV khung nhôm định hình](https://3dexport.com/3dmodel-agv-automatic-guided-vehicle-260400.htm)
